@@ -1,4 +1,4 @@
-Note: This docker file is not tested,Hence it may not promperly.
+Note: This docker file is not tested,Hence it may not work properly.
 
 
 How to run

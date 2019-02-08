@@ -5,9 +5,13 @@ How to run
 ==========
 
 #Run the docker-compose up command from the top level directory for your project.
-$docker-compose up
 
+$docker-compose up
 Now our application running , http://localhost:8000/
+
+Or
+
+$python manage.py runserver
 
 TestData:
 =======
